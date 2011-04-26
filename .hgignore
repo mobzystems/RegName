@@ -4,4 +4,3 @@ syntax: glob
 *.vbproj.user
 */Debug/*
 */Release/*
-RegName/RegName.csproj.user
