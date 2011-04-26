@@ -1,5 +1,7 @@
 syntax: glob
 *.suo
+*.csproj.user
 *.vbproj.user
 */Debug/*
 */Release/*
+RegName/RegName.csproj.user
